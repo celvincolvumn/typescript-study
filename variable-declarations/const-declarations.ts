@@ -1,1 +1,0 @@
-const numLivesForCat = 9;
